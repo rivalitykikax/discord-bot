@@ -1,0 +1,13 @@
+{
+    "BOT_TOKEN": "ODEzMjAwNjgzMDc5NTY1MzM0.YDL2Jw.MLxGajZptjaOb3UAcR_pNXUfmBc",
+    "SERVER_URL": "",
+    "SERVER_LOGO": "https://cdn.discordapp.com/icons/809549111107125248/c38ba951b241cf8db84e36b1fc9286c3.png?size=4096",
+    "SERVER_NAME": "ARMADA CITY",
+    "PREFIX": "a!",
+    "CHANNELS_ID":{
+        "SUGGESTIONS":"826452131875127317",
+        "MEMES":"",
+        "ANIMALS":""
+    }
+    
+}
